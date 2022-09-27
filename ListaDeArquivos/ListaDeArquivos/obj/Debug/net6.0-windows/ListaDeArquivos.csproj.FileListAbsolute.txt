@@ -1,0 +1,17 @@
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.csproj.AssemblyReference.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.Form1.resources
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.csproj.GenerateResource.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.AssemblyInfoInputs.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.AssemblyInfo.cs
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\bin\Debug\net6.0-windows\ListaDeArquivos.exe
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\bin\Debug\net6.0-windows\ListaDeArquivos.deps.json
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\bin\Debug\net6.0-windows\ListaDeArquivos.runtimeconfig.json
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\bin\Debug\net6.0-windows\ListaDeArquivos.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\bin\Debug\net6.0-windows\ListaDeArquivos.pdb
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\refint\ListaDeArquivos.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.pdb
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ListaDeArquivos.genruntimeconfig.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Listagem de arquivos\ListaDeArquivos\ListaDeArquivos\obj\Debug\net6.0-windows\ref\ListaDeArquivos.dll
